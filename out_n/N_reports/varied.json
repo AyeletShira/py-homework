@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "month": "2022-09"
+  },
+  "rows": [
+    {
+      "day": "2022-09-02",
+      "day_name": null,
+      "start": "07:52",
+      "end": "16:04",
+      "break_min": 34,
+      "total_min": 458,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "מהרנמיעמדהלחדש",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-05",
+      "day_name": null,
+      "start": "07:58",
+      "end": "16:02",
+      "break_min": 25,
+      "total_min": 459,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-08",
+      "day_name": null,
+      "start": "11:50",
+      "end": "14:50",
+      "break_min": 36,
+      "total_min": 144,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-12",
+      "day_name": null,
+      "start": "12:05",
+      "end": "15:05",
+      "break_min": 21,
+      "total_min": 159,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-15",
+      "day_name": null,
+      "start": "07:56",
+      "end": "15:50",
+      "break_min": 31,
+      "total_min": 443,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "חמישי",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-16",
+      "day_name": null,
+      "start": "07:59",
+      "end": "15:52",
+      "break_min": 38,
+      "total_min": 435,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "שישי",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-19",
+      "day_name": null,
+      "start": "08:01",
+      "end": "15:57",
+      "break_min": 38,
+      "total_min": 438,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-21",
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:10",
+      "break_min": 37,
+      "total_min": 453,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "רביעי",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-22",
+      "day_name": null,
+      "start": "12:07",
+      "end": "15:07",
+      "break_min": 25,
+      "total_min": 155,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-23",
+      "day_name": null,
+      "start": "08:05",
+      "end": "15:53",
+      "break_min": 25,
+      "total_min": 443,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "שישי",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-25",
+      "day_name": null,
+      "start": "07:53",
+      "end": "15:59",
+      "break_min": 33,
+      "total_min": 453,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "ראשון",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-27",
+      "day_name": null,
+      "start": "08:04",
+      "end": "15:59",
+      "break_min": 26,
+      "total_min": 449,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-28",
+      "day_name": null,
+      "start": "08:04",
+      "end": "16:20",
+      "break_min": 39,
+      "total_min": 457,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-29",
+      "day_name": null,
+      "start": "07:56",
+      "end": "16:11",
+      "break_min": 34,
+      "total_min": 461,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "מהרנמיעמדהלחדש",
+      "_meta": {
+        "month": "2022-09"
+      }
+    },
+    {
+      "day": "2022-09-30",
+      "day_name": null,
+      "start": "12:05",
+      "end": "15:05",
+      "break_min": 29,
+      "total_min": 151,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-09"
+      }
+    }
+  ],
+  "totals": {
+    "month_total_min": 5558,
+    "month_total_hours": 92.63
+  }
+}
