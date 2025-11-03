@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "template_version": "A",
+    "source_file": "a_r_9.pdf"
+  },
+  "rows": [
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "ראשון",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-07",
+      "day_name": "שישי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-09",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-11",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-14",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "ראשון",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-17",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-18",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-20",
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-21",
+      "day_name": "שישי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-22",
+      "day_name": null,
+      "start": "09:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "ראשון",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-25",
+      "day_name": "שלישי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "רביעי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": "גלילון",
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": "2022-10-27",
+      "day_name": "חמישי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": "2022-10-28",
+      "day_name": "שישי",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "2022-10"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "ראשון",
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "15:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "11:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": "שבת",
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    },
+    {
+      "day": null,
+      "day_name": null,
+      "start": "08:00",
+      "end": "16:00",
+      "break_min": 30,
+      "total_min": 480,
+      "percent_100": 0.0,
+      "percent_125": 0.0,
+      "percent_150": 0.0,
+      "shabbat": 0.0,
+      "location": null,
+      "_meta": {
+        "month": "unknown"
+      }
+    }
+  ]
+}
